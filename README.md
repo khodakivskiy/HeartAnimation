@@ -1,4 +1,4 @@
-# ParticleHeartAnimation — WPF Particle Heart Animation with Interactive Pulse Effect
+# HeartAnimation — WPF Particle Heart Animation with Interactive Pulse Effect
 
 ParticleHeartAnimation is a visually appealing WPF desktop application that draws a heart shape using thousands of animated particles. It features a heartbeat pulsing effect and interactive particle repulsion on mouse movement.
 
