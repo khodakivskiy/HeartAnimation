@@ -3,6 +3,8 @@
 ParticleHeartAnimation is a visually appealing WPF desktop application that draws a heart shape using thousands of animated particles. It features a heartbeat pulsing effect and interactive particle repulsion on mouse movement.
 
 ---
+![image](https://github.com/user-attachments/assets/ce69c8ca-ac4d-476f-973e-bfcbc6c6f123)
+---
 
 ## Features
 
